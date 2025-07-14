@@ -6,7 +6,7 @@
 
 ## 🧠 Abstract / Introduction
 
-This platform enables **parents/students to search** for tutors based on academic fields like Computer Science, Medical, and Engineering. **Admins manage tutor onboarding**, categories, and finance reports, while **tutors share class schedules, online links, and quizzes** with their registered students.
+This platform enables **students to search** for tutors based on academic fields like Computer Science, Medical, and Engineering. **Admins manage tutor onboarding**, categories, and finance reports, while **tutors share class schedules, online links, and quizzes** with their registered students.
 
 ---
 
